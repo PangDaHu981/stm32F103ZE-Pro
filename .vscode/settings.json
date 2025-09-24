@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "dialswitch.h": "c",
+        "timers.h": "c",
+        "modbusslave.h": "c",
+        "input.h": "c",
+        "com_port.h": "c",
+        "usart.h": "c",
+        "string.h": "c",
+        "adc.h": "c",
+        "wavefiltering.h": "c",
+        "i2c.h": "c",
+        "1650.h": "c",
+        "tm1650.h": "c",
+        "sys_led.h": "c"
+    },
+    "files.encoding": "gb2312",
+    "files.autoGuessEncoding": true
+}
