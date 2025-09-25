@@ -2372,10 +2372,10 @@
     <group>
         <name>APP</name>
         <file>
-            <name>$PROJ_DIR$\..\APP\usart.c</name>
+            <name>$PROJ_DIR$\..\APP\Task_LED.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\APP\usart.h</name>
+            <name>$PROJ_DIR$\..\APP\Task_LED.h</name>
         </file>
     </group>
     <group>
@@ -2387,10 +2387,58 @@
     <group>
         <name>Diver</name>
         <file>
-            <name>$PROJ_DIR$\..\Diver\Drive_LED.c</name>
+            <name>$PROJ_DIR$\..\Diver\AT24C02.c</name>
         </file>
         <file>
-            <name>$PROJ_DIR$\..\Diver\Drive_LED.h</name>
+            <name>$PROJ_DIR$\..\Diver\AT24C02.h</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\Board_Flash.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\Board_Flash.h</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\boot.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\boot.h</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\delay.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\delay.h</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\iic.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\iic.h</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\LED.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\LED.h</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\SPI.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\SPI.h</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\usart.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\usart.h</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\W25Q64.c</name>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\Diver\W25Q64.h</name>
         </file>
     </group>
     <group>

@@ -13,7 +13,9 @@
         "i2c.h": "c",
         "1650.h": "c",
         "tm1650.h": "c",
-        "sys_led.h": "c"
+        "sys_led.h": "c",
+        "board_flash.h": "c",
+        "boot.h": "c"
     },
     "files.encoding": "gb2312",
     "files.autoGuessEncoding": true

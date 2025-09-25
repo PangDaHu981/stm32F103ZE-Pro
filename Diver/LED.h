@@ -1,9 +1,8 @@
-#ifndef __DRIVER_LED_H
-#define __DRIVER_LED_H
+#ifndef __LED_H
+#define __LED_H
 
 #include "stm32f10x.h"
-#include "stm32f10x_rcc.h"
-#include "stm32f10x_gpio.h"
+
 /*
  *  函数名：void LedGpioInit(void)
  *  输入参数：无
